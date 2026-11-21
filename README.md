@@ -1,20 +1,20 @@
 # Hi 👋, I'm Hengru (Fiona) Zhou
 
-### A Undergrad student @ McGill
+### Statistics undergraduate at McGill University
 
-- 🔭 I'm currently working on **market-making-sim Project**
+- 🔭 I'm currently working on **market-making-simlation Project**
 
-- 🌱 I'm currently learning **Advanced Python, Advanced C++ in working environment**
+- 🌱 I'm currently sharpening **Python and C++ skills through hands-on projects**
 
-- 🤝 I'm looking for help with **learning building MVP**
+- 🤝 I'm looking for help with **building MVPs and turning ideas into working prototypes**
 
-- 💬 Ask me about **Statistical Modelling, intersection of statistics and computer science**
+- 💬 Ask me about **Statistical Modelling and the intersection of statistics and computer science**
 
 - 📫 How to reach me **hengru.zhou2005@gmail.com**
 
-- ⚡ Fun fact **I am a materialist by day and an idealist by night.**
+- ⚡ Fun fact **I trust statistics by day and astrology by night.**
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1YTrE03iVkbnNkP3d5shk1-f_Kc7mEJpN/view?usp=sharing](https://drive.google.com/file/d/1YTrE03iVkbnNkP3d5shk1-f_Kc7mEJpN/view?usp=sharing)**
+- 📄 Know about my experiences (Updated on Nov. 2026) **[https://drive.google.com/file/d/1YTrE03iVkbnNkP3d5shk1-f_Kc7mEJpN/view?usp=sharing](https://drive.google.com/file/d/1YTrE03iVkbnNkP3d5shk1-f_Kc7mEJpN/view?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
