@@ -1,4 +1,4 @@
-# Hi 👋, I'm Hengru (Fiona) Zhou
+# Bonjour/Hi 👋, I'm Hengru (Fiona) Zhou
 
 ### Statistics undergraduate at McGill University
 
